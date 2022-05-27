@@ -12,7 +12,7 @@ button{
  text-align:center;
  transition: all 0.2s;
 }
-a.button1:hover{
+button:hover{
  color:#000000;
  background-color:#FFFFFF;
 }
